@@ -73,5 +73,4 @@ class MainFragment : Fragment() {
         super.onStart()
         Log.d("TAG1", "onStart")
     }
-
 }
